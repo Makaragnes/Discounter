@@ -1,0 +1,32 @@
+{
+  "DiscountCards": [
+    {
+      "shopID": "123",
+      "shopNameRU": "EndlishName",
+      "shopNameEG": "EndlishName",
+      "linkToShopLogo": "linkToShopLogo",
+      "linkToShopBackground": "linkToShopBackground",
+      "mainCardNumber": "3143251534513251",
+      "anotherCardNumbers": [
+        {
+          "cardNumber": "13412351235",
+          "nameOfHolder": "Jhon"
+        }
+      ]
+    },
+    {
+      "shopID": "123",
+      "shopNameRU": "EndlishName",
+      "shopNameEG": "EndlishName",
+      "linkToShopLogo": "linkToShopLogo",
+      "linkToShopBackground": "linkToShopBackground",
+      "mainCardNumber": "3143251534513251",
+      "anotherCardNumbers": [
+        {
+          "cardNumber": "13412351235",
+          "nameOfHolder": "Jhon"
+        }
+      ]
+    }
+  ]
+}
