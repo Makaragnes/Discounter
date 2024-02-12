@@ -1,5 +1,5 @@
 {
-  "DiscountCards": [
+  "discountCards": [
     {
       "shopID": "123",
       "shopNameRU": "EndlishName",
