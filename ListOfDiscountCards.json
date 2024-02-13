@@ -2,8 +2,8 @@
   "discountCards": [
     {
       "shopID": "123",
-      "shopNameRU": "EndlishName",
-      "shopNameEG": "EndlishName",
+      "shopNameRU": "Спортмастер",
+      "shopNameEG": "Sportmaster",
       "linkToShopLogo": "linkToShopLogo",
       "linkToShopBackground": "linkToShopBackground",
       "mainCardNumber": "3143251534513251",
@@ -15,12 +15,12 @@
       ]
     },
     {
-      "shopID": "123",
-      "shopNameRU": "EndlishName",
-      "shopNameEG": "EndlishName",
+      "shopID": "1234",
+      "shopNameRU": "Пятёрочка",
+      "shopNameEG": "Piaterochka",
       "linkToShopLogo": "linkToShopLogo",
       "linkToShopBackground": "linkToShopBackground",
-      "mainCardNumber": "3143251534513251",
+      "mainCardNumber": "46433724511231",
       "anotherCardNumbers": [
         {
           "cardNumber": "13412351235",
