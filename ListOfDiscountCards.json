@@ -2,7 +2,9 @@
   "discountCards": [
     {
       "shopID": "123",
-      "type": "food",
+      "type": [
+        "any", "food"
+      ],
       "shopNameRU": "Покупочка",
       "shopNameEG": "Sportmaster",
       "linkToShopLogo": "linkToShopLogo",
@@ -17,7 +19,9 @@
     },
     {
       "shopID": "1234",
-      "type": "food",
+      "type": [
+        "any", "food", "favorite"
+      ],
       "shopNameRU": "Пятёрочка",
       "shopNameEG": "Piaterochka",
       "linkToShopLogo": "linkToShopLogo",
