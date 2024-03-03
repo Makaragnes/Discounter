@@ -10,6 +10,7 @@
       "linkToShopLogo": "linkToShopLogo",
       "linkToShopBackground": "linkToShopBackground",
       "mainCardNumber": "3434010923351580",
+      "barcodeFormat": "CODE_128",
       "anotherCardNumbers": [
         {
           "cardNumber": "13412351235",
@@ -27,6 +28,7 @@
       "linkToShopLogo": "linkToShopLogo",
       "linkToShopBackground": "linkToShopBackground",
       "mainCardNumber": "2641893435302",
+      "barcodeFormat": "EAN_13",
       "anotherCardNumbers": [
         {
           "cardNumber": "13412351235",
