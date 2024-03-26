@@ -1,0 +1,18 @@
+{
+  "discounts": [
+    {
+      "date": "string",
+      "discount": [
+        {
+          "shopName", "string",
+          "type", "string",
+          "creationDate": "string",
+          "url": "string",
+          "imgUrl": "string",
+          "title": "string",
+          "description": "string",
+        }
+      ]
+    }
+  ]
+}
