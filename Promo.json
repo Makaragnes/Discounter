@@ -5,7 +5,6 @@
       "type": "string",
       "subtype": "string",
       "expiration": "string",
-      "shopName": "string",
       "promo": "string",
       "description": "string"
     }
