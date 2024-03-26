@@ -1,0 +1,11 @@
+{
+  "lastUpdate": "string",
+  "promoCodes": [
+    {
+      "experation": "string",
+      "shopName": "string",
+      "promo": "string",
+      "description": "string"
+    }
+  ]
+}
