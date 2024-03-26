@@ -4,8 +4,8 @@
       "date": "string",
       "discount": [
         {
-          "shopName", "string",
-          "type", "string",
+          "shopName": "string",
+          "type": "string",
           "creationDate": "string",
           "url": "string",
           "imgUrl": "string",
