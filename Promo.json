@@ -1,8 +1,10 @@
 {
-  "lastUpdate": "string",
   "promoCodes": [
     {
-      "experation": "string",
+      "shopName": "string",
+      "type": "string",
+      "subtype": "string",
+      "expiration": "string",
       "shopName": "string",
       "promo": "string",
       "description": "string"
