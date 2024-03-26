@@ -1,0 +1,5 @@
+{
+  "shopLastUpdate": "string",
+  "discountLastUpdate": "string",
+  "promoLastUpdate": "string"
+}
